@@ -55,7 +55,3 @@ display(df_bronze)
 
 val path = "dbfs:/mnt/dados/bronze/dataset_imoveis"
 df_bronze.write.format("delta").mode(SaveMode.Overwrite).save(path)
-
-// COMMAND ----------
-
-// MAGIC %
