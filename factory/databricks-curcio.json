@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curcio",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d546cdb-b3c2-468f-9db6-effb4bdcda31",
+		"tenantId": "8ee2ea5f-fa5c-4f91-8ece-7c4a9fc7f3f7"
+	}
+}
